@@ -1,7 +1,8 @@
 # ExcelToLabel
 
 ## Overview
-ExcelToLabel is a Python tool designed to automate the creation of printable shop labels. It reads tabular data from an Excel file, populates placeholders in a Word document template, and generates ready-to-print labels. This project is ideal for retailers looking to streamline label creation for their products.
+ExcelToLabel is a Python tool designed to automate the creation of printable shop labels. It reads tabular data from an Excel file, populates placeholders in a Word document template, and generates ready-to-print labels.  Originally developed for a shop in Italy, it uses Italian terms in its example files to match the shop's labeling needs.
+
 
 ---
 
