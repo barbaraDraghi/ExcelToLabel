@@ -29,6 +29,7 @@ ExcelToLabel simplifies label creation by:
 2. Install dependencies:
 ``` bash
    pip install -r requirements.txt
+```
 
 ---
 
@@ -61,7 +62,7 @@ Each document corresponds to a chunk of up to 8 rows from the Excel file.
 
 
 ## Project Structure
-
+```
 ExcelToLabel/
 ├── README.md               # Project documentation
 ├── requirements.txt        # Python dependencies
@@ -73,4 +74,4 @@ ExcelToLabel/
     ├── excel_handler.py    # Handles Excel file processing
     ├── word_handler.py     # Handles Word document manipulation
 
-
+```
