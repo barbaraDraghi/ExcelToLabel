@@ -51,7 +51,7 @@ ExcelToLabel simplifies label creation by:
 ### 2. Run the Script
 Execute the script with:
 ```bash
-python main.py
+python labels_generator.py
 ```
 
 
