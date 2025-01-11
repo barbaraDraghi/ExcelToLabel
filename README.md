@@ -61,15 +61,4 @@ Each document corresponds to a chunk of up to 8 rows from the Excel file.
 
 
 
-## Project Structure
-ExcelToLabel/
-├── README.md               # Project documentation
-├── requirements.txt        # Python dependencies
-├── main.py                 # Main script
-├── files/                  # Input and output files
-│   ├── example.xlsx        # Example Excel file
-│   ├── template.docx       # Word template with placeholders
-└── utils/                  # Helper modules (optional for extensions)
-    ├── excel_handler.py    # Handles Excel file processing
-    ├── word_handler.py     # Handles Word document manipulation
 
