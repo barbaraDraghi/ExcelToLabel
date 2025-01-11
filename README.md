@@ -52,7 +52,7 @@ ExcelToLabel simplifies label creation by:
 Execute the script with:
 ```bash
 python main.py
-
+```
 
 
 ### 3. Output
@@ -62,7 +62,6 @@ Each document corresponds to a chunk of up to 8 rows from the Excel file.
 
 
 ## Project Structure
-```
 ExcelToLabel/
 ├── README.md               # Project documentation
 ├── requirements.txt        # Python dependencies
@@ -74,4 +73,3 @@ ExcelToLabel/
     ├── excel_handler.py    # Handles Excel file processing
     ├── word_handler.py     # Handles Word document manipulation
 
-```
